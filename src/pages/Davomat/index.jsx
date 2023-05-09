@@ -2,7 +2,9 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>Davomat</div>
+    <>
+      Header,g panel
+    </>
   )
 }
 
