@@ -15,17 +15,17 @@ function App() {
   return (
     <>
 
+      <Header />
+      <Panel />
 
       <Routes>
-        <Header />
-        <Panel />
         <Route path="/" element={<Home />} />
         <Route path="/davomat" element={<Davomat />} />
         <Route path="/guruh" element={<Guruh />} />
         <Route path="/oqtuvchi" element={<Oqtuvchilar />} />
         <Route path="/oquvchi" element={<Oquvchilar />} />
         <Route path="/tolov" element={<Tolovlar />} />
-        <Route path='*' element={<NoPage />} />
+        <Route path='*' element={<NoPage/>} />
       </Routes>
 
 
