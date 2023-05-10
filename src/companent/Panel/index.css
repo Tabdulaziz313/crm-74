@@ -1,0 +1,33 @@
+.offcanvas-start{
+    height: 100vh;
+}
+
+
+.fa-address-book{
+    background-color: #315996;
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 50%;
+    color: #fff;
+}
+li {
+    color: #C4C4C4;
+    font-size: 17px;
+}
+li{
+    padding-left: 10px;
+}
+li:hover{
+  background-color: #315996;
+  border-right: 3px solid #fff;
+}
+.aktive{
+  background-color: #173a6e;
+  border-right: 3px solid #fff;
+}
+h2{
+    text-transform: uppercase;
+    color: #fff;
+}
+
+

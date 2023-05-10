@@ -1,0 +1,18 @@
+
+
+nav{
+    z-index: 99999999999!important;
+    height: 10vh;
+}
+ .fa-bell, .fa-moon,.fa-sun {
+    color: aliceblue;
+    background-color:  #222235;
+    font-size: 1.1em;
+    padding: 10px;
+    border-radius: 50%;
+}
+button{
+    outline: none!important;
+    border: none!important;
+}
+
