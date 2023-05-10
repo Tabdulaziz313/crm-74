@@ -3,7 +3,7 @@ import React from 'react'
 const index = () => {
   return (
     <>
-      Header,g panel
+      <h2>davomat page</h2>
     </>
   )
 }
