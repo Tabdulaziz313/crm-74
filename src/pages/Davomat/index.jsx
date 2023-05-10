@@ -3,7 +3,7 @@ import React from 'react'
 const index = () => {
   return (
     <>
-      davomat page
+      <h2>davomat page</h2>
     </>
   )
 }
